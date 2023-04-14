@@ -1,0 +1,21 @@
+/* CSS Reset */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.navbar {
+  background-color: #41644A;
+
+}
+
+/* Set the background image */
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
+button {
+  background-color: #41644A;
+  color: #fff; /* set the font color to white for better contrast */
+}
