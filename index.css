@@ -5,11 +5,6 @@
 	box-sizing: border-box;
 }
 
-.navbar {
-  background-color: #41644A;
-
-}
-
 /* Set the background image */
 p {
   font-family: "Open Sans", sans-serif;
@@ -19,3 +14,47 @@ button {
   background-color: #41644A;
   color: #fff; /* set the font color to white for better contrast */
 }
+#landing{
+	min-height: 100vh;
+	background-color: none;
+	background-image: url("./images/unnamed1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: center center;
+	background-attachment: scroll;
+}
+
+
+.container{
+	background-color: rgba(0, 0, 0, 0);
+	min-height: auto;
+}
+
+.Klaus {
+padding-top: 27%;
+
+}
+
+
+footer span{
+	margin-left: 0.5rem;
+	margin-right: 0.5rem; !important;
+
+
+}
+
+.text-container {
+	background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 5%;
+
+}
+
+body {
+	max-width: 100%;
+  overflow-x: hidden;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
