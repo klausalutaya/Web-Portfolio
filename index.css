@@ -10,17 +10,13 @@ p {
   font-family: "Open Sans", sans-serif;
 }
 
-button {
-  background-color: #41644A;
-  color: #fff; /* set the font color to white for better contrast */
-}
 #landing{
 	min-height: 100vh;
 	background-color: none;
 	background-image: url("./images/unnamed1.jpg");
 	background-repeat: no-repeat;
-	background-size: 100%;
-	background-position: center center;
+	background-size: cover;
+	background-position: center top;
 	background-attachment: scroll;
 }
 
@@ -58,3 +54,6 @@ html {
   scroll-behavior: smooth;
 }
 
+.landing-h2-2 {
+	text-shadow: 2px 2px #252b2b;
+}
