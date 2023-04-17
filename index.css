@@ -16,7 +16,7 @@ p {
 	background-image: url("./images/unnamed1.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center top;
+	background-position: center center;
 	background-attachment: scroll;
 }
 
